@@ -1,0 +1,28 @@
+{
+  "name": "the-ingenious-gentleman",
+  "version": "1.0.0",
+  "description": "Trial of Quixote testing framework for CSS",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=5.0.0 < 6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/another-dave/the-ingenious-gentleman.git"
+  },
+  "keywords": [
+    "test",
+    "css",
+    "tdd"
+  ],
+  "author": "Dave Moloney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/another-dave/the-ingenious-gentleman/issues"
+  },
+  "homepage": "https://github.com/another-dave/the-ingenious-gentleman",
+  "dependencies": {
+    "quixote": "^0.10.0"
+  }
+}
